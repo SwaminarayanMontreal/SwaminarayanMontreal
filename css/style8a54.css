@@ -1452,3 +1452,11 @@ Custom CSS
     a.cell {
         color: red;
     }
+    
+    a#footerbttn {
+        background-color: #eee;
+        border: 1px solid #ddd;
+        color: #333;
+        font-size: 1em;
+        padding: 10px 15px;
+    }
