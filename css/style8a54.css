@@ -1468,3 +1468,11 @@ Custom CSS
     img.Acharya-Tradition {
         padding-top: 43px;
     }
+    
+    input.rbtn {
+        margin: auto;
+        margin-bottom: 30px;
+        background: #F4D9BE;
+        color: #ac3d04;
+        cursor: pointer;
+    }
